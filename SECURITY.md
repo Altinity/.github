@@ -4,4 +4,4 @@ If you would like to communicate a security issue to us, please send email immed
 
 ## More Information
 
-Security is a never-ending topic. If you have additional questions, please contact us at [info@altinity.com](mailto:info@altinity.com) or check out [Altinity’s Commitment to Security]((https://altinity.com/wp-content/uploads/2022/03/security-march2022.pdf)).
+Security is a never-ending topic. If you have additional questions, please contact us at [info@altinity.com](mailto:info@altinity.com) or check out [Altinity’s Commitment to Security](https://altinity.com/wp-content/uploads/2022/03/security-march2022.pdf).
